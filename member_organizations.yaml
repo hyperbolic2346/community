@@ -19,6 +19,12 @@
 #
 # Please keep this file alphabetized by name.
 
+- name: Canonical
+  contacts:
+  - stephan.fabel@canonical.com
+  - tim.van.steenburgh@canonical.com
+  url: https://www.ubuntu.com/kubernetes 
+
 - name: Caicloud
   contacts:
     - deyuan@caicloud.io
